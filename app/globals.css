@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+.nav-1 Link {
+  border-right: 1px;
+  border-color: black;
+}
+
+.nav-2 Link {
+  border-right: 2px;
+  border-color: white;
+}
